@@ -1,4 +1,4 @@
-package conexao;
+package Conexao;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
